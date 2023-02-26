@@ -1,2 +1,2 @@
-#Power Platform Files
+#powerplatformfiles
 Power Platform decks and links
